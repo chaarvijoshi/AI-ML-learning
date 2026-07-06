@@ -10,12 +10,12 @@ student = {
     }
 }
 
-# print(student["subjects"]["maths"])
-# print(student.keys())
-# print(student.values())
-# student["city"]="udaipur"
-# print(student)
-# print(student.items())
+print(student["subjects"]["maths"])
+print(student.keys())
+print(student.values())
+student["city"]="udaipur"
+print(student)
+print(student.items())
 
 student2 = student.copy()
 print(student2)
