@@ -1,4 +1,4 @@
-if-else condition
+# if-else condition
 
 num = 77
 num = int(input("enter any number : "))
